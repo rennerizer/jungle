@@ -1,0 +1,3 @@
+# Simple number crunching...
+summary = 2 + 3
+print(summary)
